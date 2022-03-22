@@ -29,6 +29,7 @@ export async function saveSubscription(
   }
   
   if(createAction){
+    console.log('aiai que grande fuck')
     await fauna.query(
       q.Create(
         q.Collection('subscriptions'),

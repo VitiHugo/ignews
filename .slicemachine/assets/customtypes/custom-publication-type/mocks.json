@@ -1,0 +1,21 @@
+{
+  "id": "f3229e7f-cfff-4db3-a53b-e9306569552a",
+  "uid": "magnam-commodi-quia",
+  "type": "custom-publication-type",
+  "data": {
+    "Title": [
+      {
+        "type": "heading2",
+        "text": "Seize holistic applications",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Exercitation ea incididunt ullamco ea elit incididunt. Quis eu voluptate irure do aliquip laborum non aliqua nulla.",
+        "spans": []
+      }
+    ]
+  }
+}
