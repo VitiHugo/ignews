@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="340" height="400" src="https://github.com/VitiHugo/ignews/blob/master/public/images/ignews-banner.jpg">
+  <img width="340" height="400" src="https://github.com/VitiHugo/ignews/blob/master/.github/Banner.jpg?raw=true">
 </p>
 
 ## About the project
@@ -13,3 +13,16 @@ The project was built with Next.js (using both SSR & SSG), SCSS and typescript. 
 - Stripe: Handles payment and subscription methods.
 
 This project was developed in Chapter III of the [Rocketseat Ignite Bootcamp](https://www.rocketseat.com.br/).
+
+## Images
+<p align="center">
+  <img width="500" src="https://github.com/VitiHugo/ignews/blob/master/.github/Home.PNG?raw=true">
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/VitiHugo/ignews/blob/master/.github/Preview.PNG?raw=true">
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/VitiHugo/ignews/blob/master/.github/Payment.PNG?raw=true">
+</p>
